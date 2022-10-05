@@ -30,10 +30,12 @@ body {
 #operation-window {
   font-size: 0.8rem;
   margin-bottom: 10px;
+  height: 20px;
 }
 
 #entry-window {
   font-size: 2rem;
+  height: 40px;
 }
 
 button {
