@@ -78,3 +78,4 @@ Constants:
 - Clicking `0` only makes a difference if digits have alreadyy been entered
   - Ends up being same functionality as other digits (if 0 -> replace w/ 0,
   othewise append)
+- Clicking an operator consecutive times
