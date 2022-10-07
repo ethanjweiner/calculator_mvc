@@ -24,7 +24,6 @@ class View {
     this.setEntry('0');
   }
 
-  // Bind handlers to click event
   bindButtonClick(handler) {
     this.buttonsContainer.addEventListener('click', (e) => {
       const target = e.target;
